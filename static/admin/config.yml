@@ -7,7 +7,7 @@ public_folder: "/images/uploads"
 
 collections:
   - name: "posts"
-    label: "Essays"
+    label: "Writing"
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
@@ -20,29 +20,27 @@ collections:
       - {label: "Summary", name: "summary", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "homepage"
-    label: "Homepage"
+  - name: "pages"
+    label: "Pages"
     files:
       - file: "content/_index.md"
-        label: "Homepage content"
+        label: "Homepage"
         name: "homepage"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Eyebrow", name: "eyebrow", widget: "string"}
-          - {label: "Tagline (HTML allowed)", name: "tagline", widget: "string"}
-          - {label: "About heading", name: "aboutHeading", widget: "string"}
-          - {label: "About text", name: "aboutText", widget: "text"}
-          - label: "Stats"
-            name: "stats"
-            widget: "list"
-            fields:
-              - {label: "Number", name: "number", widget: "string"}
-              - {label: "Label", name: "label", widget: "string"}
-          - label: "Selected Work"
-            name: "work"
+          - {label: "Headline", name: "headline", widget: "string"}
+          - {label: "Subhead", name: "subhead", widget: "text"}
+          - {label: "About teaser", name: "aboutTeaser", widget: "text"}
+          - label: "Topics"
+            name: "topics"
             widget: "list"
             fields:
               - {label: "Title", name: "title", widget: "string"}
-              - {label: "Category", name: "category", widget: "string"}
               - {label: "Description", name: "description", widget: "string"}
-              - {label: "URL", name: "url", widget: "string"}
+              - {label: "Icon", name: "icon", widget: "select", options: ["layers", "branch", "chart", "arrow"]}
+      - file: "content/about.md"
+        label: "About page"
+        name: "about"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}

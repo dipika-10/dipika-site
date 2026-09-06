@@ -1,3 +1,3 @@
 ﻿---
-title: "Essays"
+title: "Writing"
 ---

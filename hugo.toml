@@ -1,4 +1,4 @@
-﻿baseURL = 'https://dipika.us/'
+baseURL = 'https://dipika.us/'
 languageCode = 'en-us'
 title = 'Dipika'
 theme = 'PaperMod'
@@ -8,17 +8,22 @@ theme = 'PaperMod'
   defaultTheme = "light"
 
 [pagination]
-  pagerSize = 3
+  pagerSize = 6
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-  name = "Essays"
+  name = "Writing"
   url = "/posts/"
   weight = 10
 
 [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
   name = "Search"
   url = "/search/"
-  weight = 20
+  weight = 30
