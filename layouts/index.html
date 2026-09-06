@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="dm-hero">
+  <p class="dm-eyebrow">{{ .Params.eyebrow }}</p>
+  <h1>{{ .Title }}</h1>
+  <p class="dm-tagline">{{ .Params.tagline | safeHTML }}</p>
+</section>
+
+<section class="dm-about">
+  <h2>{{ .Params.aboutHeading }}</h2>
+  <p>{{ .Params.aboutText }}</p>
+</section>
+
+<section class="dm-stats">
+  {{ range .Params.stats }}
+  <div class="dm-stat">
+    <p class="dm-stat-number">{{ .number }}</p>
+    <p class="dm-stat-label">{{ .label }}</p>
+  </div>
+  {{ end }}
+</section>
+
+<section class="dm-work">
+  <p class="dm-section-label">Selected work</p>
+  <div class="dm-work-grid">
+    {{ range .Params.work }}
+    <a class="dm-work-card" href="{{ .url }}">
+      <p class="dm-work-title">{{ .title }}</p>
+      <p class="dm-work-category">{{ .category }}</p>
+      <p class="dm-work-desc">{{ .description }}</p>
+    </a>
+    {{ end }}
+  </div>
+  <p><a href="/posts/">View all essays →</a></p>
+</section>
+{{ end }}

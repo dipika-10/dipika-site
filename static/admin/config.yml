@@ -1,0 +1,48 @@
+﻿backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Essays"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Tags", name: "tags", widget: "list", default: []}
+      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "homepage"
+    label: "Homepage"
+    files:
+      - file: "content/_index.md"
+        label: "Homepage content"
+        name: "homepage"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Eyebrow", name: "eyebrow", widget: "string"}
+          - {label: "Tagline (HTML allowed)", name: "tagline", widget: "string"}
+          - {label: "About heading", name: "aboutHeading", widget: "string"}
+          - {label: "About text", name: "aboutText", widget: "text"}
+          - label: "Stats"
+            name: "stats"
+            widget: "list"
+            fields:
+              - {label: "Number", name: "number", widget: "string"}
+              - {label: "Label", name: "label", widget: "string"}
+          - label: "Selected Work"
+            name: "work"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Category", name: "category", widget: "string"}
+              - {label: "Description", name: "description", widget: "string"}
+              - {label: "URL", name: "url", widget: "string"}
