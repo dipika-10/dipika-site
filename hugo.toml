@@ -1,7 +1,11 @@
-baseURL = 'https://dipika.us/'
-locale = 'en-us'
+﻿baseURL = 'https://dipika.us/'
+languageCode = 'en-us'
 title = 'Dipika'
 theme = 'PaperMod'
+
+[params]
+  disableThemeToggle = true
+  defaultTheme = "light"
 
 [pagination]
   pagerSize = 3
