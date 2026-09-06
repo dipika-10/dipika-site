@@ -9,6 +9,26 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
+    CMS.registerPreviewStyle(`
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        line-height: 1.7;
+        max-width: 700px;
+        margin: 0 auto;
+        padding: 1.5rem;
+        color: #222;
+      }
+      img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 1.5rem auto;
+        border-radius: 6px;
+      }
+      h1, h2, h3 { line-height: 1.3; margin-top: 2rem; }
+      p { margin: 1rem 0; }
+    `, { raw: true });
+
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
