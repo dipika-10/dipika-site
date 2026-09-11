@@ -1,7 +1,7 @@
 ---
 title: "Marketing Modernization: Where Marketing Science meet Marketing Craft"
 date: 2026-09-11T10:03:00.000-04:00
-draft: true
+draft: false
 tags: []
 ---
 Modern marketing is a closed-loop system where customer data informs decisions, decisions shape experiences, experiences are activated across channels, and measurement continuously improves the next decision.
