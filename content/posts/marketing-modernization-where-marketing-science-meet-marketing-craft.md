@@ -20,4 +20,4 @@ To modern decisioning: **Detect customer context → determine eligibility → p
 
 There is no universal Martech Stack. But there is a common capability flow. From Dtaa to Decisions to Experience to Measurable Outcomes - all to drive better customer experience. Here is a simple CRM/Lifecyle architecture from customer data to learning.
 
-![](static/images/uploads/common-architecture.png)
+![](static/images/uploads/common-architecture.png "Marketing Stack")
