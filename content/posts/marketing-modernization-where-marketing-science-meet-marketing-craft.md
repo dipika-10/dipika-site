@@ -1,6 +1,6 @@
 ---
 title: "Marketing Modernization: Where Marketing Science meet Marketing Craft"
-date: 2026-09-01T09:35:00.000-04:00
+date: 2026-09-11T10:03:00.000-04:00
 draft: true
 tags: []
 ---
