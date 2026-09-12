@@ -22,6 +22,6 @@ There is no universal Martech Stack. But there is a common capability flow. From
 
 Test image
 
-![Common Architecture needed for Martech stack](/images/uploads/common-architecture.png) 
+![Common Architecture needed for Martech stack](static/images/uploads/common-architecture.png) 
 
 Marketing Technology stack can be assembled in different ways based on your organization need. It depends on your size, maturity, complexity and economics.
