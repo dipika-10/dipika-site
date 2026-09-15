@@ -20,6 +20,7 @@ To modern decisioning: **Detect customer context → determine eligibility → p
 
 
 Rather than thinking about one “decision-intelligence platform,” I would describe a layered ecosystem - which combined science and craft.
+
 Science:
 1. The foundation is customer data and identity: a data warehouse/lakehouse, CDP, event data, customer profile, behavioral signals, consent and preference data.
 
@@ -37,7 +38,7 @@ And across all of this sits governance: privacy, consent, model monitoring, expl
 
 There is no universal Martech Stack. But there is a common capability flow. From Data to Decisions to Experience to Measurable Outcomes - all to drive better customer experience. Here is a simple CRM/Lifecyle architecture from customer data to learning.
 
-Test image
+
 
 ![Common Architecture needed for Martech stack](/images/uploads/common-architecture.png)
 
