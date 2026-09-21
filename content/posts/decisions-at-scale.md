@@ -19,12 +19,12 @@ Breaking down different types of martech stack option and analyzing why organiza
 
 Option A: Decisioning is the brain of the  architecture
 
-
+![Common Architecture needed for Martech stack2](/images/uploads/Decisioning%20-%20NBA.png)
 
 
 Option B: Using combination of tools – still decisioning is the brain of the architecture
 
-
+![Common Architecture needed for Martech stack3](/images/uploads/best%20of%20breed.png)
 
 3. Here is one with Agentic Workflow and Customer 360 approach. AI/agentic future: adaptive real-time decisioning plus agentic workflows. 
 
