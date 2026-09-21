@@ -82,3 +82,16 @@ a { color: #1F5F52; }
 @media (max-width: 600px) {
   .topics ul { grid-template-columns: 1fr; }
 }
+/* Article title */
+.post-title {
+  font-weight: 700 !important;
+  font-size: 3rem;
+  line-height: 1.15;
+  color: #1F5F52 !important;
+}
+
+@media (max-width: 600px) {
+  .post-title {
+    font-size: 2.25rem;
+  }
+}
