@@ -1,8 +1,10 @@
 ---
 title: "Marketing Modernization: Measurement closes the loop"
-date: 2026-09-12T11:28:00.000-04:00
+date: 2026-09-21
 draft: false
-tags: []
+summary: "Marketing without measurement is guesswork with a nice deck."
+description: "Marketing without measurement is guesswork with a nice deck."
+slug: "measurement"
 ---
 
 Measurement Closes the Loop
