@@ -30,7 +30,7 @@ Rather than thinking about one “decision-intelligence platform,” I would des
 3. The orchestration and activation layer: email, SMS, Push, Web/App, Customer Care, sales, paid media and journey platforms.
 4. Measurement layer:
 
-Craft:
+<b> Craft: </b>
 1. Content & Experience:
 
 And across all of this sits governance: privacy, consent, model monitoring, explainability, auditability, brand safety, escalation, data quality and observability.
