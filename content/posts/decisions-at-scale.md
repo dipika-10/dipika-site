@@ -12,22 +12,22 @@ For most of marketing's history, the basic unit of work was the campaign. You pi
 Breaking down different types of martech stack option and analyzing why organization will select this architecture.
 1. Here is one with integrated suite approach. Decisioning is mainly done through segmentation
 
-![Common Architecture needed for Martech stack](/images/uploads/Integrated%20Suite%20-Segmentation.png)
+![Common Architecture needed for Martech stack1](/images/uploads/Integrated%20Suite%20-Segmentation.png)
 
 
 2. Here are different options focusing on Next Best Action
 
 Option A: Decisioning is the brain of the  architecture
 
-![Common Architecture needed for Martech stack](/images/uploads/Decisioning%-%NBA.png)
+![Common Architecture needed for Martech stack2](/images/uploads/Decisioning%-%NBA.png)
 
 
 Option B: Using combination of tools – still decisioning is the brain of the architecture
 
-![Common Architecture needed for Martech stack](/images/uploads/best%of%breed.png)
+![Common Architecture needed for Martech stack3](/images/uploads/best%of%breed.png)
 
 
 3. Here is one with Agentic Workflow and Customer 360 approach. AI/agentic future: adaptive real-time decisioning plus agentic workflows. 
 
-![Common Architecture needed for Martech stack](/images/uploads/Agentic%20-%20Customer%20360.png)
+![Common Architecture needed for Martech stack4](/images/uploads/Agentic%20-%20Customer%20360.png)
 
