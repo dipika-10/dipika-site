@@ -21,7 +21,7 @@ To modern decisioning: **Detect customer context → determine eligibility → p
 
 Rather than thinking about one “decision-intelligence platform,” I would describe a layered ecosystem - which combined science and craft.
 
-<b Size=10> Science: </b>
+<b Size=14> Science: </b>
 1. The foundation is customer data and identity: a data warehouse/lakehouse, CDP, event data, customer profile, behavioral signals, consent and preference data.
 
 2. Then comes the decisioning layer:
