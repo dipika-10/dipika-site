@@ -17,7 +17,7 @@ Breaking down different types of martech stack option and analyzing why organiza
 
 2. Here are different options focusing on Next Best Action
 
-Option A: Decisioning is the brain of the  architecture
+<span style font size=14>Option A: Decisioning is the brain of the  architecture </span>
 
 ![Common Architecture needed for Martech stack2](/images/uploads/Decisioning%20-%20NBA.png)
 
