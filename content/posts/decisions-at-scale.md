@@ -12,7 +12,7 @@ For most of marketing's history, the basic unit of work was the campaign. You pi
 Breaking down different types of martech stack option and analyzing why organization will select this architecture.
 1. Here is one with integrated suite approach. Decisioning is mainly done through segmentation
 
-![Common Architecture needed for Martech stack](/images/uploads/common-architecture.png)
+![Common Architecture needed for Martech stack](/images/uploads/Integrated%20Suite%20-Segmentation.png)
 
 
 2. Here are different options focusing on Next Best Action
