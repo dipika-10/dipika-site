@@ -1,3 +1,11 @@
+---
+title: "Data Is the Foundation"
+date: 2026-09-21
+draft: false
+summary: "Data Is the Foundation"
+description: "Data Is the Foundation"
+slug: "Data_foundation"
+---
 
 
 
