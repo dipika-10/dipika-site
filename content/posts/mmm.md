@@ -1,10 +1,11 @@
 ---
-title: MMM
-date: 2026-09-12T13:22:00.000-04:00
+title: "MMM - Top of the funnel measurement"
+date: 2026-09-21
 draft: false
-tags: []
+summary: "MMM - Top of the funnel measurement"
+description: "MMM - Top of the funnel measurement"
+slug: "Decision Intelligence"
 ---
-# What MMM is?
 
 1. What MMM is
 
