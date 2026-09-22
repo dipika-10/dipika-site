@@ -5,6 +5,7 @@ draft: false
 tags: ["Customer Decisioning", "Personalization", "Martech Stack"]
 description: "How to decide what is the best decisioning platform for the organization"
 summary: "Breaking down different types of martech stack option and analyzing why organization will select this architecture."
+slug: "Decision_At_Scale"
 ---
 
 For most of marketing's history, the basic unit of work was the campaign. You picked a segment, built a message, and sent it to everyone in that segment at the same time. Decisioning platforms change that unit from the campaign to the individual, evaluating in real time what a specific customer should see right now, out of potentially hundreds of eligible messages.
