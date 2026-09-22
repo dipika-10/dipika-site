@@ -3,8 +3,8 @@
 title: "The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI"
 date: 2026-09-21
 draft: false
-summary: "Marketing without measurement is guesswork with a nice deck."
-description: "Marketing without measurement is guesswork with a nice deck."
+summary: "The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI"
+description: "The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI"
 slug: "measurement"
 ---
 
