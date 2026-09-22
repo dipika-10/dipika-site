@@ -4,7 +4,7 @@ date: 2026-09-21
 draft: false
 summary: "MMM - Top of the funnel measurement"
 description: "MMM - Top of the funnel measurement"
-slug: "Media Mix modeling"
+slug: "MediaMixmodeling"
 ---
 
 1. What MMM is
