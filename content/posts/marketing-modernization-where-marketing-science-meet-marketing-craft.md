@@ -32,6 +32,13 @@ Rather than thinking about one “decision-intelligence platform,” I would des
 
 <b> Craft: </b>
 1. Content & Experience:
+Marketing craft determines things such as:
+
+What is the customer need? What message will resonate? What tone should we use? What should we explain versus sell? Should we create urgency or reassurance? How much information should we show? What creative format is appropriate? What should the next interaction feel like if they don't respond?
+
+2. Human in the loop:
+
+Algorithms are extraordinary at scale, surfacing patterns across millions of interactions that no person could hold in their head. But knowing when to override a model, when to add a guardrail, or when a segment needs its own rules entirely, that’s still a deeply human skill.
 
 And across all of this sits governance: privacy, consent, model monitoring, explainability, auditability, brand safety, escalation, data quality and observability.
 
