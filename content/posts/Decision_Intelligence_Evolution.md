@@ -5,7 +5,7 @@ date: 2026-09-21
 draft: false
 summary: "The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI"
 description: "The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI"
-slug: "measurement"
+slug: "Decision Intelligence Evolution"
 ---
 
 The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI
