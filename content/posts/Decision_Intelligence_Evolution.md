@@ -1,6 +1,6 @@
 
 ---
-title: "Marketing Modernization: Measurement closes the loop"
+title: "The Evolution of Decision Intelligence: From Segmentation to Next Best Action to Agentic AI"
 date: 2026-09-21
 draft: false
 summary: "Marketing without measurement is guesswork with a nice deck."
