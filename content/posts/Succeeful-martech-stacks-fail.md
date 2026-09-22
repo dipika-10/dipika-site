@@ -5,6 +5,7 @@ draft: false
 tags: ["MarTech", "Strategy", "Transformation"]
 description: "Lessons on aligning strategy, technology, and org design before chasing new tools."
 summary: "Lessons on aligning strategy, technology, and org design before chasing new tools."
+slug: "Successful martech stack"
 ---
 
 Most martech failures aren't technology failures. By the time a platform gets blamed for underperforming, the real problem was usually decided months earlier, in a requirements document nobody challenged, or an org chart that split ownership of customer data across four teams that don't talk to each other.
