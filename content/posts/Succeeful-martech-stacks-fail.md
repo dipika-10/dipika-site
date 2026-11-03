@@ -8,6 +8,17 @@ summary: "Lessons on aligning strategy, technology, and org design before chasin
 slug: "Successful martech stack"
 ---
 
+Things that come under Martech:
+1. Data Integration
+2. Workflow
+3. Marketing automation
+4. Analytics
+5. Customer Journey Mapping
+6. Content Generation
+7. Decisioning
+8. Orchestration
+9. Measurement
+10. Personalization
 Most martech failures aren't technology failures. By the time a platform gets blamed for underperforming, the real problem was usually decided months earlier, in a requirements document nobody challenged, or an org chart that split ownership of customer data across four teams that don't talk to each other.
 
 I've watched organizations spend years and significant budget standing up decisioning and personalization platforms, only to find that the tooling works fine but nothing changes for the customer. The gap is almost never the software. It's usually one of three things: unclear ownership of the customer journey, no integration between the systems, data that's too fragmented to act on in real time, or a launch plan that skipped change management entirely.
