@@ -156,5 +156,5 @@ The result is an intelligent operating model in which marketers focus increasing
 The next frontier is not just making smarter customer decisions. It is making the entire process of creating, executing, measuring, and improving those decisions more intelligent.
 ![Decisioning Evolution1](/images/uploads/figure_1_decision_intelligence_evolution.png)
 
-![Decisioning Evolution2](/images/uploads/figure_2_segmentation_vs_nba.png)
+![Decisioning Evolution2](/Static/images/uploads/figure_2_segmentation_vs_nba.png)
 ![Decisioning Evolution3](/images/uploads/figure_3_agentic_marketing_workflow.png)
